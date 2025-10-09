@@ -1,0 +1,45 @@
+body {
+        padding-top: 2rem;
+      }
+
+      .comic-font {
+        font-family: 'Comic Sans MS', cursive, sans-serif;
+      }
+
+      .btn-blue {
+        background-color: #67b3ff;
+        color: #000;
+        border: none;
+      }
+
+      .btn-blue:hover {
+        background-color: #87bcf1;
+      }
+
+      .btn-down {
+        cursor: pointer;
+        background-color: #67b3ff;
+        color: #000;
+        border: none;
+        padding: 6px 9px;
+        width: 100%;
+      }
+
+      .btn-down:hover {
+        background-color: #87bcf1;
+      }
+
+      #qr {
+        max-width: 100%;
+        height: auto;
+        margin-top: 1rem;
+      }
+
+      input {
+        width: 100%;
+      }
+
+      .card {
+        max-width: 400px;
+        width: 90%;
+      }
